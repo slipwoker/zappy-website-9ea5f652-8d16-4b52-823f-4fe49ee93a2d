@@ -7,21 +7,21 @@
 ## Pages
 
 ### בית
-https://-9ea5f652.zappy5.app
+https://example.com
 A real estate property appraisal business offering professional property valuation services. The business focuses on providing accurate and reliable property as
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-9ea5f652.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-9ea5f652.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-9ea5f652.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -54,6 +54,6 @@ Real Estate Appraisal
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-9ea5f652.zappy5.app/sitemap.xml
-- Robots: https://-9ea5f652.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-9ea5f652.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
