@@ -1,0 +1,59 @@
+# שמעון מישייב שמאות רכוש,סוקר סיכונים, עד מומחה לבית משפט,מאתר נזילות — Generative Engine Optimization Map
+
+> A real estate property appraisal business offering professional property valuation services. The business focuses on providing accurate and reliable property assessments, likely serving homeowners, buyers, sellers, banks, or legal entities requiring certified property valuations.
+
+---
+
+## Pages
+
+### בית
+https://-9ea5f652.zappy5.app
+A real estate property appraisal business offering professional property valuation services. The business focuses on providing accurate and reliable property as
+
+## Legal & Policy
+
+### Privacy Policy
+https://-9ea5f652.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-9ea5f652.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-9ea5f652.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About שמעון מישייב שמאות רכוש,סוקר סיכונים, עד מומחה לבית משפט,מאתר נזילות
+A real estate property appraisal business offering professional property valuation services. The business focuses on providing accurate and reliable property assessments, likely serving homeowners, buyers, sellers, banks, or legal entities requiring certified property valuations.
+
+## Services/Products
+- שמאות רכוש
+
+## Target Audience
+- רוכשי דירות עם הערכת סיכון
+- משקיעי נדל"ן
+- חברות ביטוח
+- משרדי עורכי דין
+- סוכני נדל"ן
+
+## Industry
+Real Estate Appraisal
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-9ea5f652.zappy5.app/sitemap.xml
+- Robots: https://-9ea5f652.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-9ea5f652.zappy5.app/llms-full.txt
